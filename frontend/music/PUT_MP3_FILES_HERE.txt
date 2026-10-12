@@ -1,0 +1,7 @@
+Put your MP3 files in this folder.
+
+Rename them to:
+song1.mp3
+song2.mp3
+song3.mp3
+song4.mp3
